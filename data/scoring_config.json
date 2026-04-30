@@ -1,5 +1,5 @@
 {
-  "version": 24,
+  "version": 25,
   "precision": {
     "require_explicit_ticker_news": true
   },
@@ -124,19 +124,19 @@
   "weights": {
     "_comment": "Per-spoke point caps. Tuner adjusts based on outcome history. Changing these affects ranking \u2014 measure impact before publishing.",
     "sec_pts_high": 15,
-    "ins_pts_high": 13.5,
+    "ins_pts_high": 12.15,
     "ins_pts_low": 5,
     "dv_pts_high": 15,
     "dv_pts_low": 8,
-    "sq_pts_high": 16.5,
+    "sq_pts_high": 18.15,
     "sq_pts_low": 8,
     "sm_pts_high": 10,
     "sm_pts_low": 5,
     "inf_pts_high": 10,
     "inf_pts_low": 5,
-    "dp_pts_high": 11.0,
+    "dp_pts_high": 12.1,
     "dp_pts_low": 5,
-    "gap_pts_high": 11.0,
+    "gap_pts_high": 12.1,
     "gc_pts_penalty": -15,
     "f144_pts_high_pen": -5,
     "f144_pts_low_pen": -3,
