@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 34,
   "precision": {
     "require_explicit_ticker_news": true
   },
@@ -85,7 +85,8 @@
       "S-1/A",
       "FWP",
       "NT 10-K",
-      "NT 10-Q"
+      "NT 10-Q",
+      "4"
     ],
     "blocked_when_largecap": [
       "8-K",
@@ -124,22 +125,22 @@
   "weights": {
     "_comment": "Per-spoke point caps. Tuner adjusts based on outcome history. Changing these affects ranking \u2014 measure impact before publishing.",
     "sec_pts_high": 15,
-    "ins_pts_high": 12.15,
+    "ins_pts_high": 5.23,
     "ins_pts_low": 5,
-    "dv_pts_high": 15,
+    "dv_pts_high": 6.46,
     "dv_pts_low": 8,
-    "sq_pts_high": 18.15,
+    "sq_pts_high": 30,
     "sq_pts_low": 8,
-    "sm_pts_high": 10,
+    "sm_pts_high": 6.56,
     "sm_pts_low": 5,
     "inf_pts_high": 10,
     "inf_pts_low": 5,
-    "dp_pts_high": 12.1,
+    "dp_pts_high": 25,
     "dp_pts_low": 5,
-    "gap_pts_high": 12.1,
+    "gap_pts_high": 25,
     "gc_pts_penalty": -15,
     "f144_pts_high_pen": -5,
     "f144_pts_low_pen": -3,
-    "rs_pts": 5
+    "rs_pts": 10.74
   }
 }
