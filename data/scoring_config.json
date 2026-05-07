@@ -1,5 +1,5 @@
 {
-  "version": 38,
+  "version": 40,
   "precision": {
     "require_explicit_ticker_news": true
   },
@@ -135,7 +135,7 @@
     "sm_pts_low": 5,
     "inf_pts_high": 10,
     "inf_pts_low": 5,
-    "dp_pts_high": 25,
+    "dp_pts_high": 20.25,
     "dp_pts_low": 5,
     "gap_pts_high": 25,
     "gc_pts_penalty": -15,
