@@ -10,7 +10,9 @@
       "yahoo_finance": 1.0,
       "marketwatch_top": 1.0,
       "reuters_business": 1.0
-    }
+    },
+    "combined_news_cap": 20.0,
+    "combined_headline_only_cap": 5.0
   },
   "version": 29,
   "auto_tune": {
