@@ -1,7 +1,7 @@
-list_name,rows,wins,losses,avg_gap_next_open_pct,avg_next_day_max_run_pct,avg_next_day_close_pct,hit_rate_2pct,hit_rate_3pct,hit_rate_5pct,hit_rate_2pct_net,avg_alpha_close_pct,avg_realistic_pnl_pct,avg_realistic_pnl_net_pct,published_rows,published_wins,published_losses,published_hit_rate_2pct,cohort_30d_rows,cohort_30d_hit_rate_2pct,cohort_60d_rows,cohort_60d_hit_rate_2pct,cohort_90d_rows,cohort_90d_hit_rate_2pct
-sec_clean_gappers,954,401,472,0.2564,3.6196,-0.0309,41.09,30.50,18.76,38.36,-0.0024,-0.3910,-0.6036,954,401,472,41.09,614,41.69,954,41.09,954,41.09
-sec_clean_moat_core,55,29,26,0.3943,2.7109,0.3745,52.73,41.82,21.82,50.91,0.2508,-0.0310,-0.2310,6,3,3,16.67,28,39.29,55,52.73,55,52.73
-sec_clean_value,138,64,73,-0.0151,3.0132,-0.4029,47.10,38.41,23.19,45.65,-0.5728,-0.2763,-0.5002,25,13,12,48.00,64,43.75,138,47.10,138,47.10
-sec_top_gappers,13760,5608,6461,1.8778,5.4149,1.6583,42.56,32.49,19.47,40.07,1.6016,-0.3515,-0.5668,1600,657,810,41.62,6378,41.24,13760,42.56,13760,42.56
-sec_top_moat_core,202,102,99,0.2155,2.4680,0.2976,43.56,32.67,16.34,41.58,0.1348,-0.1764,-0.3764,7,4,3,28.57,88,37.50,202,43.56,202,43.56
-sec_top_moat_emerging,13558,5506,6362,1.9025,5.4588,1.6786,42.54,32.48,19.52,40.05,1.6234,-0.3541,-0.5696,1593,653,807,41.68,6290,41.29,13558,42.54,13558,42.54
+list_name,rows,wins,losses,avg_gap_next_open_pct,avg_next_day_max_run_pct,avg_next_day_close_pct,hit_rate_2pct,hit_rate_3pct,hit_rate_5pct,hit_rate_2pct_net,avg_alpha_close_pct,avg_alpha_close_pct_investable,median_alpha_close_pct,investable_rows,excluded_rows,avg_realistic_pnl_pct,avg_realistic_pnl_net_pct,published_rows,published_wins,published_losses,published_hit_rate_2pct,cohort_30d_rows,cohort_30d_hit_rate_2pct,cohort_60d_rows,cohort_60d_hit_rate_2pct,cohort_90d_rows,cohort_90d_hit_rate_2pct
+sec_clean_gappers,881,368,440,0.4029,3.7670,0.0484,40.30,29.97,18.39,37.80,0.0635,-0.2608,-0.1863,784,97,-0.4230,-0.6369,881,368,440,40.30,543,39.78,881,40.30,881,40.30
+sec_clean_moat_core,56,29,27,0.3253,2.6763,0.2879,51.79,42.86,21.43,50.00,0.1486,0.1486,0.0410,56,0,0.0053,-0.1947,6,3,3,16.67,26,38.46,56,51.79,56,51.79
+sec_clean_value,140,65,74,-0.0015,2.9986,-0.4229,47.14,37.86,22.86,45.71,-0.6125,-0.6125,-0.5051,140,0,-0.2623,-0.4859,26,13,13,46.15,64,46.88,140,47.14,140,47.14
+sec_top_gappers,13196,5376,6202,1.9839,5.5004,1.7413,42.44,32.38,19.33,39.99,1.6746,-0.3205,-0.2079,11377,1819,-0.3604,-0.5756,1472,600,750,41.24,5608,40.26,13196,42.44,13196,42.44
+sec_top_moat_core,200,99,100,0.1806,2.4390,0.2276,43.50,33.00,16.00,41.50,0.0651,0.0651,-0.0264,200,0,-0.1695,-0.3695,7,4,3,28.57,83,34.94,200,43.50,200,43.50
+sec_top_moat_emerging,12996,5277,6102,2.0116,5.5475,1.7646,42.43,32.37,19.38,39.97,1.6994,-0.3274,-0.2098,11177,1819,-0.3633,-0.5787,1465,596,747,41.30,5525,40.34,12996,42.43,12996,42.43
