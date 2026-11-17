@@ -14,7 +14,7 @@
     "combined_news_cap": 20.0,
     "combined_headline_only_cap": 5.0
   },
-  "version": 29,
+  "version": 30,
   "auto_tune": {
     "enabled": true,
     "step_limits": {
@@ -76,7 +76,8 @@
       "S-1/A",
       "FWP",
       "NT 10-K",
-      "NT 10-Q"
+      "NT 10-Q",
+      "4"
     ],
     "blocked_when_largecap": [
       "8-K",
